@@ -1,6 +1,11 @@
-# AngularPhoneApp
+# AngularPhoneApp - Backend / Frontend integration
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
+In this App example, you will be able to:
+
+1. Have a fullstack application running.
+2. Consume a REST API using Angular. (REST API name => angular-phone-app-API)
+   You can take the API at https://github.com/ogm710811/angular-phone-app-API 
+3. Build an application for the release.
 
 ## Development server
 
